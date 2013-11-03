@@ -1,0 +1,19 @@
+Using Processing.exe for library uploaded:
+
+-download Processing file from processing.org. get the version for your respective operating system.
+-make a new folder called "sketchbook" (case sensitive) inside the "processing."
+-inside "sketchbook" make folder called "libraries" (case sensitive)
+-go to "kinect" folder in your main "VirtueX" folder
+-copy "openkinect" in the "libraries" folder you made in processing>>sketchbook>>libraries
+
+
+-Open processing.exe
+- Go to file> preferences
+-Go to Sketchbook location: make sure the location is pointing to the folder before the
+library folder:
+eg. in my case:
+C:\Users\Rikesh\Documents\GitHub\VirtueX\processing\sketchbook\
+
+
+
+-Now you should be able to run it.
