@@ -1,2 +1,62 @@
-VirtueX Website documentation
-=============================
+<!DOCTYPE html>
+<!-- File name: index.html
+Author: Marquis Massie
+Home page for VirtueX project site.
+CSS: virtueStyle.css
+ - Refer to stylesheet design document for more information. 
+Javascript: N / A -->
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>VirtueX - Home</title>
+		<link href="VirtueStyle.css" rel="stylesheet">
+	</head>
+	
+	<body>
+		<div class="container">
+			<header>
+				<h1>VirtueX - Human-Computer Physical Therapy</h1>
+			</header>
+			
+			<aside>
+				<nav>
+					<a href="index.html">Home</a>
+					<a href="about.html">About</a>
+					<a href="timeline.html">TimeLine</a>
+					<a href="contacts.html">Contacts</a>
+					<a href="documents.html">Documents</a>
+					<a href="videos.html">Videos</a>
+				</nav>
+			</aside>
+			
+			<article>
+				<p>
+					In our group we wish to develop software that would
+					compile and process data collected through these devices to
+					accurately reflect the bodily functions taking place in terms
+					of the musculoskeletal system as the user conducts various
+					motions. In compiling this data we will be able to present a
+					clear, intuitive, user friendly rendering of the users’
+					physiology, allowing them to see:
+					
+					<ul>
+						<li>If they are performing the correct motion</li>
+						<li>If they are applying tension to the correct parts of the body</li>
+						<li>If there is unnecessary tension being applied to the wrong parts
+							of the body</li>
+						<li>Which form of movement would provide the least stress to
+							already-injured areas of the body in the real time.</li>
+					</ul>
+				</p>
+				
+				<img src="images/body-scan.jpg" alt="Image of human body scan">
+ 
+			</article>
+			
+			<footer>
+				Lorem ipsum bla bla bla content filler for otherwise useful
+			</footer>
+		</div>		
+	</body>
+</html>
