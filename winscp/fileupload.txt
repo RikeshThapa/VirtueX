@@ -1,0 +1,7 @@
+option batch abort
+option confirm off
+open sftp://mysession
+put -delete c:\VirtueX\ColorCamTestRevert\*.*  /var/www/ColorCam/ColorCam_files/*
+put -delete C:\Users\Rikesh\Documents\Kinect\VirtueX\TestersDatabase\Skeleton\Skeleton_files\*.* /var/www/Skeleton/Skeleton_files/*
+
+exit

@@ -1,0 +1,13 @@
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\bin\Release\VirtueXSkeletonSeeker.exe
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\bin\Release\VirtueXSkeletonSeeker.pdb
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\MainWindow.baml
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\MainWindow.g.cs
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\App.g.cs
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\VirtueXSkeletonSeeker_MarkupCompile.cache
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\VirtueXSkeletonSeeker.g.resources
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\VirtueXSkeletonSeeker.exe
+C:\Users\Rikesh\Documents\Visual Studio 2010\Projects\VirtueXSkeletonSeeker\VirtueXSkeletonSeeker\obj\x86\Release\VirtueXSkeletonSeeker.pdb

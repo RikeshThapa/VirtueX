@@ -1,0 +1,5 @@
+C:\Users\Rikesh\documents\visual studio 2010\Projects\VirtueX1\VirtueX1\bin\Debug\VirtueX1.exe
+C:\Users\Rikesh\documents\visual studio 2010\Projects\VirtueX1\VirtueX1\bin\Debug\VirtueX1.pdb
+C:\Users\Rikesh\documents\visual studio 2010\Projects\VirtueX1\VirtueX1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rikesh\documents\visual studio 2010\Projects\VirtueX1\VirtueX1\obj\x86\Debug\VirtueX1.exe
+C:\Users\Rikesh\documents\visual studio 2010\Projects\VirtueX1\VirtueX1\obj\x86\Debug\VirtueX1.pdb

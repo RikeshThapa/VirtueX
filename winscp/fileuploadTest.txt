@@ -1,0 +1,8 @@
+option batch abort
+option confirm off
+open sftp://mysession
+
+put -delete c:\users\Rikesh\Test\*.* /root/VirtueX/test/*.*
+
+
+exit

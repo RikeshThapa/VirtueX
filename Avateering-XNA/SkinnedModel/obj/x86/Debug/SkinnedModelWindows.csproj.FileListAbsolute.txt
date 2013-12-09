@@ -1,0 +1,6 @@
+C:\Users\Rikesh\Documents\Kinect\Avateering-XNA\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Rikesh\Documents\Kinect\Avateering-XNA\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Rikesh\Documents\Kinect\Avateering-XNA\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rikesh\Documents\Kinect\Avateering-XNA\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rikesh\Documents\Kinect\Avateering-XNA\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Rikesh\Documents\Kinect\Avateering-XNA\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
